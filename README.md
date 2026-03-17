@@ -5,7 +5,7 @@
 
 I’m Learning how to be a complete **Software Enginner!**
 
-I’m Focusing on learning **Python, JavaScript, React, Java** and everything needed to be a complete Backend Developer <3
+I’m Focusing on learning **Python, JavaScript, React, Java, SQL, DevOPS** and everything needed to be a complete Backend Developer <3
 
 ---
 
